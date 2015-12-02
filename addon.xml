@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.abeksis" name=".[COLOR blue]Abeksis NOT ANYMORE Privet[/COLOR][COLOR white] FRANKENSTIEN Repository[/COLOR]" version="1.0" provider-name="NOT REALLY ABEKSIS">
+    <extension point="xbmc.addon.repository" name=".Abeksis FORMER Repository ">
+        <info compressed="false">http://kodisrael.net/repo/addons.xml</info>
+        <checksum>http://kodisrael.net/repo/addons.xml.md5</checksum>
+        <datadir zip="true">http://kodisrael.net/repo/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>COPY WITH NO CREDIT</summary>
+        <description>COPY WITH NO CREDIT</description>
+        <description>COPY WITH NO CREDIT</description>
+        <platform>all</platform>
+    </extension>
+</addon>
