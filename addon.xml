@@ -7,8 +7,8 @@
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>COPY WITH NO CREDIT</summary>
-        <description>COPY WITH NO CREDIT</description>
-        <description>COPY WITH NO CREDIT</description>
+        <description>לפרטים נא להכנס לאתר של דונטלו</description>
+        <description>http://donatellokodi.blogspot.co.il/2015/12/blog-post_5.html</description>
         <platform>all</platform>
     </extension>
 </addon>
